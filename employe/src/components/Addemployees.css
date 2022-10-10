@@ -1,0 +1,45 @@
+.form-content-right{
+  background:url(formback.jpg);
+    text-align:center;
+    max-height: fit-content;
+    
+}
+.addempbtn{
+  
+  background-color: #04AA6D;
+  border: none;
+
+  color: white;
+  padding: 10px 13px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  width: 25%;
+}
+.form{
+  display:inline-block;
+    background-color: #fff;
+    border-radius: 5px;
+    height: auto;
+    padding: 35px 78px;
+    margin: 10% auto;
+    margin-left: auto;
+    margin-right: auto;
+  box-shadow: inset;
+}
+.addempbtn:hover {
+  background-color: black;
+}
+input,select {
+            width: 200px;
+            height: 35px;
+            margin: 2px;
+            -moz-box-sizing: border-box;
+            -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+}
+.zmdi{
+  font-size: 25px;
+  
+}
+
